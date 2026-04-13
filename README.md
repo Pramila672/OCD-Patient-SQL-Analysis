@@ -98,5 +98,3 @@ Analyzed:
 3. Execute queries to view insights
 
 ---
-
-## 📁 Project Structure
